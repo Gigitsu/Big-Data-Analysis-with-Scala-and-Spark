@@ -20,5 +20,5 @@ Recommended background: You should have at least one year programming experience
 Puts these datasets in each project resources folder.
 
 - Week1 [Wikipedia](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat)
-- Week2 [StackOverflo](http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv)
+- Week2 [StackOverflow](http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv)
 - Week3 [TimeUsage](http://alaska.epfl.ch/~dockermoocs/bigdata/atussum.csv)
